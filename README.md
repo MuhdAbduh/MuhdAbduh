@@ -1,21 +1,20 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abduh Bin Abdul Ba'ari</h1>
-<h3 align="center">A passionate learner</h3>
+<h3 align="center"> I'm currently pursuing my study at the University of Technology Malaysia (UTM)  </h3>
+<h3 align="center">A passionate learner, fast learner, and also eager for knowlegde</h3>
 
 - ⚡ Fun fact **Chaotic Good**
+  
+<a href="https://github.com/MuhdAbduh/MuhdAbduh/blob/main/img/CodeHubLogo.png" target="_blank">
+    <img src="https://github.com/MuhdAbduh/MuhdAbduh/blob/main/img/CodeHubLogo.png" alt="CodeHub Logo">
+</a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhdabduh&show_icons=true&locale=en&layout=compact&hide=lua&theme=radical" alt="muhdabduh" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=muhdabduh&show_icons=true&locale=en&theme=radical" alt="muhdabduh" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=100 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhdabduh&theme=radical" alt="muhdabduh" />
-</a>
+- 📢 Currently working on a Web Programming Project with my group [Bazooka](https://github.com/Syakirin03/bazooka)
+- 📢 Currently working on an Object Oriented Programming Project with my group [CodeHub](https://github.com/jjn7702/SECJ2154-OOP/tree/main/Submission/sec04_23242/codeHub)
+- 📢 Email me at **muhammadabduh@graduate.utm.my**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/muhammad abduh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad abduh" height="30" width="40" /></a>
+<a href="https://www.facebook.com/MuhdAbduhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad abduh" height="30" width="40" /></a>
 <a href="https://instagram.com/@capbudusamah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@capbudusamah" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/abduh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abduh" height="30" width="40" /></a>
 <a href="https://discord.gg/#0023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0023" height="30" width="40" /></a>
@@ -25,6 +24,9 @@
 <p align="left">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+    </a>
+   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
     </a>
     <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle SQL" width="40" height="40"/>
@@ -47,7 +49,22 @@
     <a href="https://rstudio.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="RStudio" width="40" height="40"/>
     </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+    </a>
 </p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhdAbduh&show_icons=true&locale=en&layout=compact&hide=lua&theme=radical" alt="MuhdAbduh" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=MuhdAbduh&show_icons=true&locale=en&theme=radical" alt="MuhdAbduh" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=100 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhdAbduh&theme=radical" alt="MuhdAbduh" />
+</a>
+
+
 
 
 
