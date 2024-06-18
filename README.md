@@ -3,6 +3,16 @@
 
 - ⚡ Fun fact **Chaotic Good**
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhdabduh&show_icons=true&locale=en&layout=compact&hide=lua&theme=radical" alt="muhdabduh" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=muhdabduh&show_icons=true&locale=en&theme=radical" alt="muhdabduh" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=100 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhdabduh&theme=radical" alt="muhdabduh" />
+</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/muhammad abduh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad abduh" height="30" width="40" /></a>
