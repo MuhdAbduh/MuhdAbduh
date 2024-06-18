@@ -8,6 +8,8 @@
     <img src="https://github.com/MuhdAbduh/MuhdAbduh/blob/main/img/CodeHubLogo.png" alt="CodeHub Logo">
 </a>
 
+[My e-portfolio](https://muhdabduh.github.io/)
+
 - 📢 Currently working on a Web Programming Project with my group [Bazooka](https://github.com/Syakirin03/bazooka)
 - 📢 Currently working on an Object Oriented Programming Project with my group [CodeHub](https://github.com/jjn7702/SECJ2154-OOP/tree/main/Submission/sec04_23242/codeHub)
 - 📢 Email me at **muhammadabduh@graduate.utm.my**
